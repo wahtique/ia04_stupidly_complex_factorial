@@ -1,4 +1,4 @@
-#Stupidly Complex Factorial
+# Stupidly Complex Factorial
 
 or an implementation of the computation of simple factorials in a multi agent system
 
